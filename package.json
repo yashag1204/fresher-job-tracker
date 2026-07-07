@@ -27,6 +27,7 @@
     "vite": "^6.2.3"
   },
   "devDependencies": {
+    "mongoose": "^8.x.x",
     "@types/bcryptjs": "^2.4.6",
     "@types/express": "^4.17.21",
     "@types/jsonwebtoken": "^9.0.10",
