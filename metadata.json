@@ -1,0 +1,6 @@
+{
+  "name": "Job Application Tracker",
+  "description": "A comprehensive Job Application Tracking System for freshers, featuring job searching, application tracking, a beautiful dashboard, resume upload, and role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
